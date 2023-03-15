@@ -1,0 +1,10 @@
+{
+   "scene" : "config/scene1a/scene.json",
+   "lights" : "config/scene1a/lights.json",
+   "mesh" : "config/scene1a/mesh.json",
+   "animation" : "config/scene1a/animation.json",
+   "width"  : 1920,
+   "height" : 1080,
+   "near"   : 0.1,
+   "far"    : 100000.0
+}

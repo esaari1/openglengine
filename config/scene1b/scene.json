@@ -1,0 +1,25 @@
+{ 
+
+"axis" : "on",
+"skybox" : 9000,
+"eye" : [ 0, 0, 10 ],
+"rotate" : [ 0, 0, 0 ],
+
+"objects" : [
+
+   {
+      "type" : "mesh",
+      "name" : "sat2"
+   },
+   
+   {
+      "type" : "sphere",
+      "name" : "earth",
+      "texture" : "resources/images/earth/Color Map2.jpg",
+      "scale" : [ 5000, 5000, 5000 ],
+      "translate" : [ 4850.036, -4723.319, 3217.774 ]
+   }
+
+]
+
+}

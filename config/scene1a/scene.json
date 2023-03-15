@@ -1,0 +1,24 @@
+{ 
+
+"skybox" : 9000,
+"eye" : [ 0, 0, 10 ],
+"rotate" : [ 0, 0, 0 ],
+
+"objects" : [
+   {
+      "type" : "sphere",
+      "name" : "earth",
+      "texture" : "resources/images/earth/Color Map2.jpg",
+      "scale" : [ 5000, 5000, 5000 ],
+      "translate" : [ 8965.114, -2667.080, 1644.399 ]
+   },
+   
+   {
+      "type" : "mesh",
+      "name" : "voyager",
+      "shader" : "phong"
+   }
+   
+]
+
+}

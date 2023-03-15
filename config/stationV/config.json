@@ -1,0 +1,9 @@
+{
+   "scene" : "config/stationV/scene.json",
+   "lights" : "config/stationV/lights.json",
+   "mesh" : "config/stationV/mesh.json",
+   "width"  : 960,
+   "height" : 540,
+   "near"   : 0.1,
+   "far"    : 100000.0
+}

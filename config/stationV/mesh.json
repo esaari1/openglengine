@@ -1,0 +1,10 @@
+{ "mesh" : [
+
+{
+   "type" : "lightwave",
+   "name" : "stationV",
+   "path" : "resources/models/lightwave/stationV/",
+   "file" : "station-v-v4.lwo"
+}
+
+] }

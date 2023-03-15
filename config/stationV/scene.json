@@ -1,0 +1,15 @@
+{ 
+
+"eye" : [ 0, 0, 10 ],
+"rotate" : [ 0, 0, 0 ],
+
+"objects" : [
+   
+   {
+      "type" : "mesh",
+      "name" : "stationV"
+   }
+   
+]
+
+}

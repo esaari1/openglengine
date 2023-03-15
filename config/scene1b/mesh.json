@@ -1,0 +1,10 @@
+{ "mesh" : [
+
+{
+   "type" : "m3ds",
+   "name" : "sat2",
+   "path" : "resources/models/3ds/sat23ds/",
+   "file" : "Sat2.3ds"
+}
+
+] }
